@@ -31,6 +31,7 @@ Chd|====================================================================
       MODULE MATRIX_MOD
       implicit none
 #include      "my_real.inc"
+! adjfaolskdjlk
 
 !     *******************************     !
 !     Coordinate format Sparse Matrix     !
