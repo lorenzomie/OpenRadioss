@@ -6,7 +6,7 @@ Welcome! You can report issues [here](https://github.com/OpenRadioss/OpenRadioss
 
 Please first discuss the changes you wish to make via the [issue](https://github.com/OpenRadioss/OpenRadioss/issues) or the [discussion](https://github.com/OpenRadioss/OpenRadioss/discussions) tabs.
 You must be aware of the [license](./LICENSE.md). We will ask you to sign a **Contributor License Agreement** (CLA).
-
+CIAO CANE
 ### Settings
 
 Windows users may want to use [git bash](https://gitforwindows.org/) or [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
